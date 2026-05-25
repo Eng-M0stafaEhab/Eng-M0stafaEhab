@@ -12,9 +12,9 @@ I am a **data lover** fascinated by the way data can be used for **crucial, life
 ![](https://streak-stats.demolab.com/?user=Eng-M0stafaEhab&theme=ayu-mirage&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Eng-M0stafaEhab&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20look%20at%20data%20is%20to%20look%20at%20the%20past%3B%20to%20heed%20data%20is%20to%20change%20the%20future.%20It%20is%20the%20only%20bridge%20where%20what%20was%20alters%20what%20will%20be.&author=Unknown)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20look%20at%20data%20is%20to%20look%20at%20the%20past%3B%20to%20heed%20data%20is%20to%20change%20the%20future.%20It%20is%20the%20only%20bridge%20where%20what%20was%20alters%20what%20will%20be) <!-- .&author=Unknown -->
 ---
 
 
